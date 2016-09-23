@@ -1,5 +1,6 @@
 # Nginx
 
+[![](https://images.microbadger.com/badges/image/softputer/nginx.svg)]
 ### Supported Nginx versions
 
 You can changed the nginx version just by changing the ENV NGINX_VERSION to the your desired version.
